@@ -31,7 +31,7 @@ To run this application, follow the steps below:
 
    ```bash
    python -m venv env
-   source env/bin/activate # On Windows: env\Scripts\activate
+   source env/Scripts/activate 
    ```
 
 3. Install the required dependencies:

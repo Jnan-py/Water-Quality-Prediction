@@ -51,10 +51,10 @@ To run this application, follow the steps below:
 
 ```
 water-quality-monitoring/
-├── app.py               # Main application file
-├── requirements.txt     # List of Python dependencies
-├── README.md            # Project documentation
-├── .gitignore           # Ignored files and directories
+├── app.py               
+├── requirements.txt     
+├── README.md            
+├── .gitignore           
 ```
 
 ---
